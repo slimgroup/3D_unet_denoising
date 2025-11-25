@@ -2,7 +2,7 @@
 
 Official PyTorch implementation.<br>
 3D Unet for 3D Seismic Data Denoising<br>
-Shiqin Zeng, Felix j. Herrmann br>
+Shiqin Zeng, Felix j. Herrmann  <br>
 
 
 ## Requirements
